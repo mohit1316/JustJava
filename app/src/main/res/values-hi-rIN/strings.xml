@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="quantity">" मात्रा"</string>
+    <string name="orders">इंतिज़ाम</string>
+
+    <string name="toppings">अतिरिक्त</string>
+</resources>
